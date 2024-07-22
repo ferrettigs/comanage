@@ -31,4 +31,4 @@ To facilitate transparent fishing activity in the Tunisian exclusive economic zo
 ## Created By
 Code by Jeremy Jenrette - PhD Candidate in Fish and Wildlife Conservation at Virginia Tech
 
-[View the Fishing Effort Grid](https://sp2.cs.vt.edu/shiny/comanage/fishing_effort_grid.html)
+<iframe src="https://sp2.cs.vt.edu/shiny/comanage/fishing_effort_grid.html" width="100%" height="600px" frameborder="0"></iframe>
