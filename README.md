@@ -3,7 +3,7 @@
 To facilitate transparent fishing activity in the Tunisian exclusive economic zone, we developed this prototype virtual logbook application for fishermen to report their catches and monitor current and past ocean use.
 
 ## Version 1.1 Updates
-
+[Co-management App](https://sp2.cs.vt.edu/shiny/comanage/)
 ### Maps
 - **Fishing Effort Map**: Displays a grid with 0.25x0.25 degree resolution of total fishing effort in hours over a specified temporal range.
   - Displays top flag and gear per grid cell.
